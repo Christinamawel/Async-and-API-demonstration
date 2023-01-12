@@ -1,37 +1,47 @@
-# _{Application Name}_
+# _Async and API demonstration_        
 
-#### By _**{List of contributors}**_
+#### By **Christina Welch** 
 
-#### _{Brief description of application}_
+#### _A webpage made to demonstrate calling GET requests to a third party API using vanilla JavaScript._
 
-## Technologies Used
+<br>
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+<img src="https://images.unsplash.com/photo-1560114928-40f1f1eb26a0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="Cat Photo" width="500"/>
 
-## Description
+##### Photo By **Andriyko Podilnyk on Unsplash.com**
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+<br>
 
-## Setup/Installation Requirements
+## 💾 Technologies Used
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Webpack](https://webpack.js.org/)
+* [The Cat API](https://thecatapi.com/)
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+<br>
 
-## Known Bugs
+## 💻 Description
 
-* _Any known issues_
-* _should go here_
+_A simple webpage that calls on an API to get a random cat picture. It was made for demonstration purposes to help instruct students through the Async and API curriculum material. _
 
-## License
+<br>
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+## ⚙️ Setup
 
-Copyright (c) _date_ _author name(s)_
+* Clone the GitHub repository: https://github.com/Christinamawel/Async-and-API-demonstration.git
+* From the main project directory, run npm install in the terminal to load necessary plugins and packages.
+* Run npm run start to start the application.
+
+<br>
+
+## ❌ Known Bugs
+
+This site is not a complete project and is for demonstration purposes only so nav bar links do not actually go anywhere.
+
+## 📃 License
+
+MIT License
+
+Copyright (c) [2022] [Christina Welch]
